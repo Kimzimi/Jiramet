@@ -1,4 +1,4 @@
-# Jiramet
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiramet&show_icons=true&theme=radical)
 
 A showcase of my work, skills, and learning journey.
 
